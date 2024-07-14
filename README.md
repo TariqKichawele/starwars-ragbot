@@ -1,3 +1,21 @@
+# StarWars Chatbot
+
+![Screenshot 2024-07-14 at 8 28 41 AM](https://github.com/user-attachments/assets/1278b1ae-3956-49d2-aa41-558e82b1d830)
+
+- Welcome to the Star Wars AI Chatbot, your ultimate guide to the galaxy far, far away! Whether you're a seasoned Jedi Master, an eager Padawan, or just starting your journey into the Star Wars universe, I'm here to help. I can answer any questions you have about the starwars series.
+
+**Tech Stack**
+- Nextjs
+- OpenAI
+- TypeScript
+- CSS
+
+**Features**
+- Realtime Chat
+- Streaming Response
+- Responsive Design
+- Character Information
+  
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
