@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-07-14 at 8 28 41 AM](https://github.com/user-attachments/assets/1278b1ae-3956-49d2-aa41-558e82b1d830)
 
-- Welcome to the Star Wars AI Chatbot, your ultimate guide to the galaxy far, far away! Whether you're a seasoned Jedi Master, an eager Padawan, or just starting your journey into the Star Wars universe, I'm here to help. I can answer any questions you have about the starwars series.
+Welcome to the Star Wars AI Chatbot, your ultimate guide to the galaxy far, far away! Whether you're a seasoned Jedi Master, an eager Padawan, or just starting your journey into the Star Wars universe, I'm here to help. I can answer any questions you have about the starwars series.
 
 **Tech Stack**
 - Nextjs
